@@ -1,1 +1,5 @@
-auto main() -> int {return 0;}
+#include <iostream>
+
+auto main() -> int {
+  std::cout << "Hello, World!" << std::endl;
+}
